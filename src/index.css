@@ -1,0 +1,16 @@
+body {
+  background-color: #f1f5f8;
+
+  /* background-image: url("./images/endless-constellation.svg"); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+* {
+  /* font-family: 'Noto Sans JP' !important; */
+  font-family: "Heebo", sans-serif !important;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
